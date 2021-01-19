@@ -1,0 +1,18 @@
+{
+  "name": "Teste_de_automacao_ailos",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "Teste de automação Ailos com SuperTest",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tiago Adriano <tiago.adrianott@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "faker": "^5.1.0",
+    "mocha": "^8.2.1",
+    "supertest": "^6.1.1"
+  }
+}
